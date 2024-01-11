@@ -1,7 +1,7 @@
 # Bridge-i2i Problem Statement
 Group 14 -- H2_B21_14 (IIT-Indore)  
 
-Awarded ***Silver Medal*** in the final result.
+Awarded ***Silver Medal*** in the competition.
 
 For technical details about the project, refer to ``Technical Report.pdf`` and ``Presentation.pdf``.  
 
